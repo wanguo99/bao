@@ -1,0 +1,6 @@
+[submodule "bao-hypervisor"]
+	path = bao-hypervisor
+	url = git@github.com:linux-bsp/bao-hypervisor.git
+[submodule "bao-demos"]
+	path = bao-demos
+	url = git@github.com:linux-bsp/bao-demos.git

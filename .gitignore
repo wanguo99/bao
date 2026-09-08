@@ -1,0 +1,9 @@
+# Local-only repositories and agent configuration
+arm-trusted-firmware/
+.agents/
+.codex/
+
+# Generated build and deployment output
+build/
+bin/
+wrkdir/
